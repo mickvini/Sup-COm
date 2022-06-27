@@ -34,6 +34,8 @@ function ApplyBuff(unit, buffName, instigator)
         return 
     end
     
+    xxx
+
     instigator = instigator or unit
 
     #buff = table of buff data
